@@ -1,4 +1,6 @@
 # Checker-Brush---Unity2D-Tilepalette-Addon
 I felt like I needed to share this tool with everyone. If I had it weeks ago, it could've saved me alot of time on my project.
 
-https://github.com/JazzRhodes/Checker-Brush---Unity2D-Tilepalette-Addon/blob/main/Demo.mp4
+https://user-images.githubusercontent.com/94728326/150364391-23c563e9-f081-4bdd-bf31-d614d0b37cde.mp4
+
+
